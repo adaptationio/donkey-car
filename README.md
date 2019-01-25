@@ -16,7 +16,7 @@ A Deep Reinforcement Learning Agent for Donkey Car
     - __Linux__ or __Mac__: 
 	```bash
 	conda create --name donkey-car python=3.6
-	source activate donkey-care
+	source activate donkey-car
 	```
 	- __Windows__: 
 	```bash
