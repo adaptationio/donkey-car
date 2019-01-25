@@ -1,9 +1,6 @@
 # donkey-car
 Deep Reinforcement Learning - Donkey Car Implementation
 
-# drl-openai-retro
-Deep Reinforcement Learning - Open AI Retro
-
 ## Introduction
 A Deep Reinforcement Learning Agent for Donkey Car 
 
